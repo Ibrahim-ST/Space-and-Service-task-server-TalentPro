@@ -1,0 +1,44 @@
+[
+    {
+      "id": 1,
+      "image": "https://svgshare.com/i/uvZ.svg",
+      "title": "Door to Door storage",
+      "description": "We pick up, store & deliver"
+    },
+    {
+      "id": 2,
+      "image": "https://svgshare.com/i/uxL.svg",
+      "title": "Self Access Storage",
+      "description": "24/7 Access Secured Storage Unit"
+    },
+    {
+      "id": 3,
+      "image": "https://svgshare.com/i/uxf.svg",
+      "title": "Document Storage",
+      "description": "Store offsite and manage online"
+    },
+    {
+      "id": 4,
+      "image": "https://svgshare.com/i/uxM.svg",
+      "title": "Marketing Merchandise",
+      "description": "Send swags to us and click for returns "
+    },
+    {
+      "id": 5,
+      "image": "https://svgshare.com/i/uxV.svg",
+      "title": "Retail and e-Commerce",
+      "description": "We'll receive, store, pick, pack and ship"
+    },
+    {
+      "id": 6,
+      "image": "https://svgshare.com/i/uva.svg",
+      "title": "Co Working and Co-Warehousing",
+      "description": "Work, store, operate, and ship all in one place"
+    },
+    {
+      "id": 7,
+      "image": "https://svgshare.com/i/uv_.svg",
+      "title": "Office With Storage",
+      "description": "Office space with storage space"
+    }
+  ]
